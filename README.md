@@ -8,3 +8,5 @@
    'sois':"you(pl) are",
    'son':"they are"
   } <br>This is some text.<br>This is some text.</pre>
+
+<pre id="myPreTag">text<br>This is some text.<br>This is some text.</pre>
