@@ -1,18 +1,22 @@
+
 # 'verb_conjugations' is a list of dictionaries
 # each dictionary contains the 'question' & 'answer' and the interaction with the user
 verb_conjugations = [
-  {'to': "x",
-   'yo':"x",
-   'tú':"x",
-   'el/ella':"x",
-   'nosotros':"x",
-   'vosotros':"x",
-   'ellos/as':"x"
+  {'to': "ser":"to be",
+   'yo':"soy":"I am",
+   'tú':"eres":"you are",
+   'el/ella':"es":"he/she is",
+   'nosotros':"somos":"we are",
+   'vosotros':"sois":"you(pl) are",
+   'ellos/as':"son":"they are"
   },
-  {'question': "x",
-   'answer': "x",
-   'snarky':'x',
-  'funfact':"x"
+  {'to': "tener":"to have",
+   'yo':"tengo":"i have",
+   'tú':"tienes":"you have",
+   'el/ella':"tiene":"he/she has",
+   'nosotros':"tenemos":"we have",
+   'vosotros':"tenéis":"you(pl) have",
+   'ellos/as':"tienen":"they have"
   }
 ]
 
