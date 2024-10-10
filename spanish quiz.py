@@ -1,27 +1,27 @@
-
 # 'verb_conjugations' is a list of dictionaries
 # each dictionary contains the 'question' & 'answer' and the interaction with the user
 verb_conjugations = [
-  {'to': "ser":"to be",
-   'yo':"soy":"I am",
-   'tú':"eres":"you are",
-   'el/ella':"es":"he/she is",
-   'nosotros':"somos":"we are",
-   'vosotros':"sois":"you(pl) are",
-   'ellos/as':"son":"they are"
+  {'ser':"to be",
+   'soy':"I am",
+   'eres':"you are",
+   'es':"he/she is",
+   'somos':"we are",
+   'sois':"you(pl) are",
+   'son':"they are"
   },
-  {'to': "tener":"to have",
-   'yo':"tengo":"i have",
-   'tú':"tienes":"you have",
-   'el/ella':"tiene":"he/she has",
-   'nosotros':"tenemos":"we have",
-   'vosotros':"tenéis":"you(pl) have",
-   'ellos/as':"tienen":"they have"
+  {'tener':"to have",
+   'tengo':"i have",
+   'tienes':"you have",
+   'tiene':"he/she has",
+   'tenemos':"we have",
+   'tenéis':"you(pl) have",
+   'tienen':"they have"
   }
 ]
 
 score = 0
 
+'''
 for verb_conjugations_question in verb_conjugations:
     response = input(f'{verb_conjugations_question["question"]} ?\n---> ').lower()
     answers = verb_conjugations_question["answer"].lower().split(" or ")
@@ -35,3 +35,5 @@ for verb_conjugations_question in verb_conjugations:
         print(f'{verb_conjugations_question["funfact"]}\n')
 
 print(f'You got {score} out of {verb_conjugations.__len__()}!')
+'''
+
