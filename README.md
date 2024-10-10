@@ -17,4 +17,31 @@
    'tienen':"they have"
   }<br>This is some text.</pre>
 
-<pre id="myPreTag">text<br>This is some text.<br>This is some text.</pre>
+<pre id="myPreTag">-AR verbs
+   {'tener':"to have",
+   'tengo':"i have",
+   'tienes':"you have",
+   'tiene':"he/she has",
+   'tenemos':"we have",
+   'tenéis':"you(pl) have",
+   'tienen':"they have"
+  }
+   <br>
+   -ER verbs
+   {'tener':"to have",
+   'tengo':"i have",
+   'tienes':"you have",
+   'tiene':"he/she has",
+   'tenemos':"we have",
+   'tenéis':"you(pl) have",
+   'tienen':"they have"
+  }<br>
+   -IR verbs
+{'tener':"to have",
+   'tengo':"i have",
+   'tienes':"you have",
+   'tiene':"he/she has",
+   'tenemos':"we have",
+   'tenéis':"you(pl) have",
+   'tienen':"they have"
+  }</pre>
