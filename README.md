@@ -26,7 +26,7 @@
    'tenéis':"you(pl) have",
    'tienen':"they have"
   }
-   <br>
+   <br>-ER verbs
    -ER verbs
    {'tener':"to have",
    'tengo':"i have",
