@@ -7,6 +7,14 @@
    'somos':"we are",
    'sois':"you(pl) are",
    'son':"they are"
-  } <br>This is some text.<br>This is some text.</pre>
+  } <br>
+   {'tener':"to have",
+   'tengo':"i have",
+   'tienes':"you have",
+   'tiene':"he/she has",
+   'tenemos':"we have",
+   'tenéis':"you(pl) have",
+   'tienen':"they have"
+  }<br>This is some text.</pre>
 
 <pre id="myPreTag">text<br>This is some text.<br>This is some text.</pre>
