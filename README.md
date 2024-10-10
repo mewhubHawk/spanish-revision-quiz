@@ -27,7 +27,7 @@
    'tienen':"they have"
   }
    <br>-ER verbs
-   -ER verbs
+
    {'tener':"to have",
    'tengo':"i have",
    'tienes':"you have",
@@ -35,8 +35,7 @@
    'tenemos':"we have",
    'tenéis':"you(pl) have",
    'tienen':"they have"
-  }<br>
-   -IR verbs
+  }<br>-IR verbs
 {'tener':"to have",
    'tengo':"i have",
    'tienes':"you have",
