@@ -41,3 +41,13 @@
    'vosotros':"we have",
    'ellos/ellas':"you(pl) have",
   }</pre>
+
+<pre id="myPreTag">
+  {'abrigo':"coat",
+   'barato/a':"cheap",
+   'tienda':"shop",
+   'vestido':"dress",
+   'camisa':"shirt",
+   'caro':"expensive",
+   'cartera':"purse",
+  }<br><br></pre>
