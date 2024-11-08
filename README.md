@@ -51,3 +51,14 @@
    'caro':"expensive",
    'cartera':"purse",
   }<br><br></pre>
+
+<pre id= "myPreTag">
+   simple future tense suffix <br>
+   {
+    "yo":"é",
+    "tú":"ás",
+    "él/ella":"á",
+    "nosotros":"emos",
+    "vosotros":"áis",
+    "ellos/ellas":"án"
+  }<br></pre>
