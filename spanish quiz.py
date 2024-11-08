@@ -18,6 +18,17 @@ verb_conjugations = [
    'tienen':"they have"
   }
 ]
+#simple future tense suffix 
+
+   {
+    "yo":"é",
+    "tú":"ás",
+    "él/ella":"á",
+    "nosotros":"emos",
+    "vosotros":"áis",
+    "ellos/ellas":"án"
+  }
+
 
 score = 0
 
