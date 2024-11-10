@@ -61,4 +61,4 @@
     "nosotros":"emos",
     "vosotros":"áis",
     "ellos/ellas":"án"
-  }<br></pre>
+  }<br>https://github.com/mewhubHawk/SpanishQUiz-2</pre>
